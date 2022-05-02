@@ -12,10 +12,13 @@ Projeto bem legal.Sempre quis fazer uma aplicação completa com o servidor, ban
   -de um npm start na pag web,
   -de um yarn start na pag app
   
+
+https://user-images.githubusercontent.com/86988869/166180545-10015bfc-ff8a-4904-9586-6d2bed2d289d.mp4
+
+
   
   
 
- Uploading demoWeb.mp4…
 
 
   
